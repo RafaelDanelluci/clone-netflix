@@ -1,2 +1,2 @@
 # clone-netflix
-Aprendendo a cria a home page do netflix utilizando html, css e javascript
+Aprendendo a criar a home page do netflix utilizando html, css e javascript
